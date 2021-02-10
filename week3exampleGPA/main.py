@@ -12,3 +12,6 @@ elif gpa >= 3.5:
 else:
     print("No Honors")
 
+temp = float(input('Enter temp: '))
+tempf = (9/5 * temp) + 32
+print(tempf)
