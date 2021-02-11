@@ -129,7 +129,7 @@ def output():  # basically the meat and potatoes, function that brings it all to
     print("%-30s %6.2f" % ("Total % reduction", total))
     print("%-30s %6.2f" % ("Overall range (miles)", overall_range))
     print("\n")
-    print("*" * 75)
+    print("*" * 70)
 
 
 intro()   # This is what executes everything
