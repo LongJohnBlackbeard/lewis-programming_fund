@@ -2,6 +2,8 @@
 # Programming Fundamentals
 # April 5th 2021
 
+# MUST BE RUN WITH jungle_items.txt IN THE SAME DIRECTORY
+
 import csv
 
 # creates empty lists to hold items, item prices, and for shopping cart
